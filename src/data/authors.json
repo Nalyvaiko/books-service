@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "David McCullough",
+    "biography": "David Gaub McCullough (/məˈkʌlə/; born July 7, 1933) is an American author, narrator, historian, and lecturer. He is a two-time winner of the Pulitzer Prize and the National Book Award and a recipient of the Presidential Medal of Freedom, the United States' highest civilian award.Born and raised in Pittsburgh, McCullough earned a degree in English literature from Yale University. His first book was The Johnstown Flood (1968); and he has since written nine more on such topics as Harry S. Truman, John Adams, the Brooklyn Bridge, and the Wright brothers. McCullough has also narrated numerous documentaries, such as The Civil War by Ken Burns, as well as the 2003 film Seabiscuit; and he hosted American Experience for twelve years.",
+    "books": [9, 11]
+  },
+  {
+    "id": 2,
+    "name": "Leo Tolstoy",
+    "biography": "Count Lev Nikolayevich Tolstoy, usually referred to in English as Leo Tolstoy, was a Russian writer who is regarded as one of the greatest authors of all time. Born to an aristocratic Russian family in 1828, he is best known for the novels War and Peace (1869) and Anna Karenina (1877), often cited as pinnacles of realist fiction. He first achieved literary acclaim in his twenties with his semi-autobiographical trilogy, Childhood, Boyhood, and Youth (1852–1856), and Sevastopol Sketches (1855), based upon his experiences in the Crimean War. Tolstoy's fiction includes dozens of short stories and several novellas such as The Death of Ivan Ilyich, Family Happiness, and Hadji Murad. He also wrote plays and numerous philosophical essays.",
+    "books": [1, 2, 3]
+  },
+  {
+    "id": 3,
+    "name": "Fyodor Dostoyevsky",
+    "biography": "sometimes transliterated Dostoevsky, was a Russian novelist, short story writer, essayist, journalist and philosopher. Dostoyevsky's literary works explore human psychology in the troubled political, social, and spiritual atmospheres of 19th-century Russia, and engage with a variety of realistic philosophical and religious themes.He began writing in his 20s, and his first novel, Poor Folk, was published in 1846 when he was 25. His most acclaimed works include Crime and Punishment (1866), The Idiot (1869), Demons (1872) and The Brothers Karamazov (1880). Dostoyevsky's oeuvre consists of 11 novels, three novellas, 17 short stories and numerous other works. Many literary critics rate him as one of the greatest psychologists in world literature.[2] His 1864 novella Notes from Underground is considered to be one of the first works of existentialist literature",
+    "books": [4, 5]
+  },
+  {
+    "id": 4,
+    "name": "Jane Austen",
+    "biography": "was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century. Austen's plots often explore the dependence of women on marriage in the pursuit of favourable social standing and economic security. Her works critique the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century literary realism. Her use of biting irony, along with her realism and social commentary, have earned her acclaim among critics and scholars.With the publications of Sense and Sensibility (1811), Pride and Prejudice (1813), Mansfield Park (1814) and Emma (1815), she achieved success as a published writer. She wrote two additional novels, Northanger Abbey and Persuasion, both published posthumously in 1818, and began another, eventually titled Sanditon, but died before its completion. Her novels have rarely been out of print, although they were published anonymously and brought her little fame during her lifetime.",
+    "books": [6]
+  },
+  {
+    "id": 5,
+    "name": "Harper Lee",
+    "biography": "better known by her pen name Harper Lee, was an American novelist widely known for To Kill a Mockingbird, published in 1960. Immediately successful, it won the 1961 Pulitzer Prize and has become a classic of modern American literature. Though Lee had only published this single book, in 2007 she was awarded the Presidential Medal of Freedom for her contribution to literature. Additionally, Lee received numerous honorary degrees, though she declined to speak on those occasions. She was also known for assisting her close friend Truman Capote in his research for the book In Cold Blood (1966). Capote was the basis for the character Dill in To Kill a Mockingbird. The plot and characters of To Kill a Mockingbird are loosely based on Lee's observations of her family and neighbors, as well as an event that occurred near her hometown in 1936, when she was 10 years old. The novel deals with the irrationality of adult attitudes towards race and class in the Deep South of the 1930s, as depicted through the eyes of two children. The novel was inspired by racist attitudes in her hometown of Monroeville, Alabama.",
+    "books": [7, 8]
+  },
+  {
+    "id": 6,
+    "name": "Doris Kearns Goodwin",
+    "biography": "Doris Helen Kearns Goodwin (born January 4, 1943) is an American biographer, historian, and political commentator. She has authored biographies of several U.S. presidents, including Lyndon Johnson and the American Dream; The Fitzgeralds and the Kennedys: An American Saga; No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II (which won the Pulitzer Prize for History in 1995); Team of Rivals: The Political Genius of Abraham Lincoln; and her most recent book, The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism.",
+    "books": [10]
+  }
+]

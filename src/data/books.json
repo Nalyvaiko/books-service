@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "War and Peace",
+    "authorId": 2,
+    "genre": "Novel",
+    "description": "Epic in scale, War and Peace delineates in graphic detail events leading up to Napoleon's invasion of Russia, and the impact of the Napoleonic era on Tsarist society, as seen through the eyes of five Russian aristocratic families."
+  },
+  {
+    "id": 2,
+    "title": "Anna Karenina",
+    "authorId": 2,
+    "genre": "Novel",
+    "description": "Anna Karenina is the tragic story of Countess Anna Karenina, a married noblewoman and socialite, and her affair with the affluent Count Vronsky."
+  },
+  {
+    "id": 3,
+    "title": "Resurrection",
+    "authorId": 2,
+    "genre": "Novel",
+    "description": "The story is about a nobleman named Dmitri Ivanovich Nekhlyudov, who seeks redemption for a sin committed years earlier. His brief affair with a maid had resulted in her being fired and ending up in prostitution."
+  },
+  {
+    "id": 4,
+    "title": "Crime and Punishment",
+    "authorId": 3,
+    "genre": "Novel",
+    "description": "It is a murder story, told from a murder;s point of view, that implicates even the most innocent reader in its enormities. It is a cat-and-mouse game between a tormented young killer and a cheerfully implacable detective."
+  },
+  {
+    "id": 5,
+    "title": "The Brothers Karamazov",
+    "authorId": 3,
+    "genre": "Novel",
+    "description": "Dostoevsky's last and greatest novel, The Karamazov Brothers, is both a brilliantly told crime story and a passionate philosophical debate. The dissolute landowner Fyodor Pavlovich Karamazov is murdered; his sons — the atheist intellectual Ivan, the hot-blooded Dmitry, and the saintly novice Alyosha — are all at some level involved."
+  },
+  {
+    "id": 6,
+    "title": "Pride and Prejudice",
+    "authorId": 4,
+    "genre": "Fiction",
+    "description": "The story charts the emotional development of the protagonist, Elizabeth Bennet, who learns the error of making hasty judgments and comes to appreciate the difference between the superficial and the essential. The comedy of the writing lies in the depiction of manners, education, marriage, and money in the British Regency."
+  },
+  {
+    "id": 7,
+    "title": "To Kill a Mockingbird",
+    "authorId": 4,
+    "genre": "Fiction",
+    "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960."
+  },
+  {
+    "id": 8,
+    "title": "Go Set a Watchman",
+    "authorId": 4,
+    "genre": "Fiction",
+    "description": "Go Set a Watchman tackles the racial tensions brewing in the South in the 1950s and delves into the complex relationship between father and daughter. It includes treatments of many of the characters who appear in To Kill a Mockingbird."
+  },
+  {
+    "id": 9,
+    "title": "John Adams",
+    "authorId": 1,
+    "genre": "History",
+    "description": "The enthralling, often surprising story of John Adams, one of the most important and fascinating Americans who ever lived."
+  },
+  {
+    "id": 10,
+    "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+    "authorId": 5,
+    "genre": "History",
+    "description": "Ten years in the making, this engaging work reveals why Lincoln's road to success was longer, more tortuous, and far less likely than the other men, and why, when opportunity beckoned, Lincoln was the best prepared to answer the call."
+  },
+  {
+    "id": 11,
+    "title": "1776",
+    "authorId": 1,
+    "genre": "History",
+    "description": "Based on extensive research in both American and British archives, 1776 is a powerful drama written with extraordinary narrative vitality. It is the story of Americans in the ranks, men of every shape, size, and color, farmers, schoolteachers, shoemakers, no-accounts, and mere boys turned soldiers. And it is the story of the King's men, the British commander, William Howe, an his highly disciplined redcoats who looked on their rebel foes with contempt and fought with a valor too little known."
+  }
+]
