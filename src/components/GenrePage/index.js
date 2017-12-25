@@ -14,7 +14,7 @@ const GenrePage = ({ authors, books, pathname }) => {
         books={genreBooks}
         authors={authors}
         />
-      <h3>Go to <Link to="/">Main Page</Link></h3>
+      <Link to="/"> Go back to homepage</Link>
     </div>
   );
 };

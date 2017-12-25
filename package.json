@@ -98,7 +98,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Nalyvaiko/books-service"
   },
   "jest": {
     "moduleNameMapper": {
